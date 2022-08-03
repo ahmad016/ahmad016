@@ -5,9 +5,8 @@
 
 ## Summary
 
-I am a(n)...
+I am a...
 
-  AWS Solutions Architect - Associate & CompTIA Security+ Certified engineer with years of experience working with monitoring tools, back-end infrastructure, and with maintenance of applications running on various cloud platforms. Looking for team-based positions in the Cloud Engineering field with opportunities for advancements into the DevOps industry.
+  Student currently finishing my Bachelor's in Information Technology with a concentration in Cloud Computing. I aim to finish college by 2024 and hopefully pursue a Master's in Computer Science or Information Technology.
 
-My skills include, but are not limited to...
-  Having comprehensive knowledge on Terraform, and the following AWS Services: CloudWatch, CloudFormation, EC2, S3, IAM, VPC, and Route 53 while also continuing to learn various programming languages most currently including java & python.
+  I have an interest in programming and automation and have recently gotten a good foundation in Java which I will use to create future projects that will be uploaded here.
